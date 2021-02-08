@@ -4,4 +4,7 @@ This document lists the Steering Committee of the Organization. Voting members m
 
 
 Aseem Rastogi, Microsoft Research
-
+Zhe Tao, University of California - Davis
+Kapil Vaswani, Microsoft Research
+Aditya Thakur, University of California - Davis
+Naman Gupta, Microsoft Research
